@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 17 12:08:00 2021
-
-@author: Jeevitha Ganesan
-"""
 
 # -*- coding: utf-8 -*-
 """
