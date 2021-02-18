@@ -3,7 +3,7 @@
 """
 Created on Thu Feb 11 13:20:47 2021
 
-@author:TAmil vannan G
+@author:Tamil vannan G
 """
 
 import cv2
